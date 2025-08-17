@@ -42,7 +42,8 @@ This provides a **low-cost, efficient, and user-friendly** smart home solution.
 - **Bulbs (x2), Fan (x1), Water Pump (x1)**  
 - **Breadboard & Jumper Wires** → prototyping connections  
 - **Resistors (330Ω)** → protection for LEDs/sensors  
-- **Power Supply** → 5V regulated supply  
+- **Power Supply** → 5V regulated supply
+- **Cork Sheet** → prototype home
 
 ---
 
